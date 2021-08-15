@@ -10,6 +10,10 @@ const genre = {
     {
       book: "You Don't Know JS",
       rating: "3.5/5"
+    },
+    {
+      book: "Javascript - The Good Parts",
+      rating: "3.5/5"
     }
   ],
   fiction: [
@@ -20,6 +24,10 @@ const genre = {
     {
       book: "Harry Potter and the Sorcerer's Stone",
       rating: "4.5/5"
+    },
+    {
+      book: "The Midnight Library",
+      rating: "4.5/5"
     }
   ],
   business: [
@@ -29,6 +37,10 @@ const genre = {
     },
     {
       book: "Loonshots",
+      rating: "5/5"
+    },
+    {
+      book: "Business Adventures",
       rating: "5/5"
     }
   ]
